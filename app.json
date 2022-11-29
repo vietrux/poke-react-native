@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "reactnative",
+    "name": "Giang Poke",
     "slug": "reactnative",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.vietrux.reactnative"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1e5fbd25-496e-4f1c-9ee0-937a880fd9db"
+      }
     }
   }
 }
